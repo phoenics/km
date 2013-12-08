@@ -1,0 +1,3 @@
+# Module sign
+# RPC service class, partial path of RPC policy file
+km.cms.smartcm.comm.client.service.SignService, 9C87FA7F4E19CBC968FAED91DA84FFCE.gwt.rpc

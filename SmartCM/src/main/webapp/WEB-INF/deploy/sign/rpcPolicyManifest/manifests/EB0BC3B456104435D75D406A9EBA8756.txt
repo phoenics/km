@@ -1,0 +1,2 @@
+serviceClass: km.cms.smartcm.comm.client.service.SignService
+path: 9C87FA7F4E19CBC968FAED91DA84FFCE.gwt.rpc
